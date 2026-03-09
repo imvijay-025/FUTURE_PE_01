@@ -1,0 +1,9 @@
+Create call-to-action sections for a beauty salon website.
+
+Business: Glow Beauty Salon
+Location: Chennai
+
+Generate:
+1. Booking CTA
+2. First-time visitor CTA
+3. Location CTA

@@ -1,0 +1,13 @@
+Act as a professional website copywriter.
+
+Write homepage copy for a beauty salon.
+
+Business Name: Glow Beauty Salon
+Location: Chennai
+Target Audience: Women aged 18-40
+Tone: Friendly and welcoming
+
+Generate:
+1. Headline
+2. Subheadline
+3. Short introduction (3-4 sentences)

@@ -1,0 +1,11 @@
+Act as a professional website copywriter.
+
+Create services page content for a beauty salon.
+
+Business: Glow Beauty Salon
+Location: Chennai
+
+Generate 4 services including:
+- Service name
+- What is included
+- Why customers should choose this service
